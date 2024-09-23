@@ -1,0 +1,537 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "dune_3@3.16.0": {
+      "last_modified": "2024-09-10T15:01:03Z",
+      "resolved": "github:NixOS/nixpkgs/5ed627539ac84809c78b2dd6d26a5cebeb5ae269#dune_3",
+      "source": "devbox-search",
+      "version": "3.16.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/nfn382a0rb45kvv255ll9zlfzn8jc8p1-dune-3.16.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/nfn382a0rb45kvv255ll9zlfzn8jc8p1-dune-3.16.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1jb4dd8mx6ayhck3qsw3rmjnzbvmc1ka-dune-3.16.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/1jb4dd8mx6ayhck3qsw3rmjnzbvmc1ka-dune-3.16.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/yrfr5196vcvlaw4lbzg0zk5a86pg5yxf-dune-3.16.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/yrfr5196vcvlaw4lbzg0zk5a86pg5yxf-dune-3.16.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/hgn7s48pdyqfpwgci046gyprxyrsc535-dune-3.16.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/hgn7s48pdyqfpwgci046gyprxyrsc535-dune-3.16.0"
+        }
+      }
+    },
+    "gh@latest": {
+      "last_modified": "2024-09-17T14:38:52Z",
+      "resolved": "github:NixOS/nixpkgs/658e7223191d2598641d50ee4e898126768fe847#gh",
+      "source": "devbox-search",
+      "version": "2.57.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/f7slwhbxi7j1sha0lhpp4zzip6fgy3wj-gh-2.57.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/f7slwhbxi7j1sha0lhpp4zzip6fgy3wj-gh-2.57.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/bc5idwf8ahqw1jpj0ix0k3v9n4gkm4zk-gh-2.57.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/bc5idwf8ahqw1jpj0ix0k3v9n4gkm4zk-gh-2.57.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/d7j6i070bsvjf2dh0jjx66qz5bnw6qaa-gh-2.57.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/d7j6i070bsvjf2dh0jjx66qz5bnw6qaa-gh-2.57.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/z6d97qmzcirp7c5k9bpdnp3nhl0c457a-gh-2.57.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/z6d97qmzcirp7c5k9bpdnp3nhl0c457a-gh-2.57.0"
+        }
+      }
+    },
+    "just@1.35.0": {
+      "last_modified": "2024-09-10T15:01:03Z",
+      "resolved": "github:NixOS/nixpkgs/5ed627539ac84809c78b2dd6d26a5cebeb5ae269#just",
+      "source": "devbox-search",
+      "version": "1.35.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/874l9amqmswyy67spzdcipvg0c4zpgs4-just-1.35.0",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/kfb71pvp8v2s5j2xbnacmfp63i14jq42-just-1.35.0-man",
+              "default": true
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/kxf0w9wbq1hzqbdgaz9xp6dfvm1w87bs-just-1.35.0-doc"
+            }
+          ],
+          "store_path": "/nix/store/874l9amqmswyy67spzdcipvg0c4zpgs4-just-1.35.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ymxdf0mkxkbcy0kg5215wclhc8p3ai7r-just-1.35.0",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/4iaav8fi103xb0gbwqz8abfqbn47ymjm-just-1.35.0-man",
+              "default": true
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/944ppn1m7i9vg1hgrr46r0mgibpw31pq-just-1.35.0-doc"
+            }
+          ],
+          "store_path": "/nix/store/ymxdf0mkxkbcy0kg5215wclhc8p3ai7r-just-1.35.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4zbi8rbaqksnggyzjr5s9cfzc3ag0dk2-just-1.35.0",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/i8kbbpr6w3q4242nvf024i0nnf2rr8j9-just-1.35.0-man",
+              "default": true
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/fmp8604s89h69664q5w64s20m0qkh4h3-just-1.35.0-doc"
+            }
+          ],
+          "store_path": "/nix/store/4zbi8rbaqksnggyzjr5s9cfzc3ag0dk2-just-1.35.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1bkp6pcvnhmn3xp3jz2f6zhdjzjhksz6-just-1.35.0",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/bv3s48ql599mdnl4r896xl686byncng8-just-1.35.0-man",
+              "default": true
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/f09814w7yvwx2wx8b5gq6vps016m4npw-just-1.35.0-doc"
+            }
+          ],
+          "store_path": "/nix/store/1bkp6pcvnhmn3xp3jz2f6zhdjzjhksz6-just-1.35.0"
+        }
+      }
+    },
+    "ocaml@5.1.1": {
+      "last_modified": "2024-09-10T15:01:03Z",
+      "resolved": "github:NixOS/nixpkgs/5ed627539ac84809c78b2dd6d26a5cebeb5ae269#ocaml",
+      "source": "devbox-search",
+      "version": "5.1.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/m4ffx25yhx73c960vjz1ffjsxgsgg31k-ocaml-5.1.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/m4ffx25yhx73c960vjz1ffjsxgsgg31k-ocaml-5.1.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/3ajpsrhfs553mrfkf9s9cdn4vl6bvqq0-ocaml-5.1.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/3ajpsrhfs553mrfkf9s9cdn4vl6bvqq0-ocaml-5.1.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/g2b4i28kmciy7kkdn6w0cc8xaiy35d97-ocaml-5.1.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/g2b4i28kmciy7kkdn6w0cc8xaiy35d97-ocaml-5.1.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/a7fmzrfq15z9fmf4a74pvh8ymfzvzny8-ocaml-5.1.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/a7fmzrfq15z9fmf4a74pvh8ymfzvzny8-ocaml-5.1.1"
+        }
+      }
+    },
+    "ocamlPackages.findlib@1.9.6": {
+      "last_modified": "2024-09-10T15:01:03Z",
+      "resolved": "github:NixOS/nixpkgs/5ed627539ac84809c78b2dd6d26a5cebeb5ae269#ocamlPackages.findlib",
+      "source": "devbox-search",
+      "version": "1.9.6",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/2g53gwgpls70x77bvj16n1pc6jfhk5sp-ocaml5.1.1-findlib-1.9.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/2g53gwgpls70x77bvj16n1pc6jfhk5sp-ocaml5.1.1-findlib-1.9.6"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/lil77r68bz5hx7jy4p784i2irw750knq-ocaml5.1.1-findlib-1.9.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/lil77r68bz5hx7jy4p784i2irw750knq-ocaml5.1.1-findlib-1.9.6"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/kkjp4i7d5g85pxrs575yqqqfaxijlayv-ocaml5.1.1-findlib-1.9.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/kkjp4i7d5g85pxrs575yqqqfaxijlayv-ocaml5.1.1-findlib-1.9.6"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/d9rwvkg1h5x5faig3r5ml7h0399nnnvd-ocaml5.1.1-findlib-1.9.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/d9rwvkg1h5x5faig3r5ml7h0399nnnvd-ocaml5.1.1-findlib-1.9.6"
+        }
+      }
+    },
+    "ocamlPackages.merlin@4.16-501": {
+      "last_modified": "2024-09-10T15:01:03Z",
+      "resolved": "github:NixOS/nixpkgs/5ed627539ac84809c78b2dd6d26a5cebeb5ae269#ocamlPackages.merlin",
+      "source": "devbox-search",
+      "version": "4.16-501",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/qvmc5q7rxlfvf3y3kjrsvy52805r7h89-ocaml5.1.1-merlin-4.16-501",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/qvmc5q7rxlfvf3y3kjrsvy52805r7h89-ocaml5.1.1-merlin-4.16-501"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6wlzig42cihm833mmg09z00f3p3lv5k1-ocaml5.1.1-merlin-4.16-501",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6wlzig42cihm833mmg09z00f3p3lv5k1-ocaml5.1.1-merlin-4.16-501"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/qnb27zidl3yqics0a86gn90i8kbrg66b-ocaml5.1.1-merlin-4.16-501",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/qnb27zidl3yqics0a86gn90i8kbrg66b-ocaml5.1.1-merlin-4.16-501"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/jfvyg2a308a63p3s9i2aiyk5qwi48ms3-ocaml5.1.1-merlin-4.16-501",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/jfvyg2a308a63p3s9i2aiyk5qwi48ms3-ocaml5.1.1-merlin-4.16-501"
+        }
+      }
+    },
+    "ocamlPackages.ocaml-lsp@1.18.0": {
+      "last_modified": "2024-09-12T02:28:40Z",
+      "resolved": "github:NixOS/nixpkgs/111ed8812c10d7dc3017de46cbf509600c93f551#ocamlPackages.ocaml-lsp",
+      "source": "devbox-search",
+      "version": "1.18.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/p6d73s4sf5fri5n9dq7vdlbc074lf2pj-ocaml5.1.1-ocaml-lsp-server-1.18.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/p6d73s4sf5fri5n9dq7vdlbc074lf2pj-ocaml5.1.1-ocaml-lsp-server-1.18.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6b994i8dz7sb3fa6rpqw0jbm4krryfnd-ocaml5.1.1-ocaml-lsp-server-1.18.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6b994i8dz7sb3fa6rpqw0jbm4krryfnd-ocaml5.1.1-ocaml-lsp-server-1.18.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/bra31yaxmimsaxyp02jfzbgf6mci9s0s-ocaml5.1.1-ocaml-lsp-server-1.18.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/bra31yaxmimsaxyp02jfzbgf6mci9s0s-ocaml5.1.1-ocaml-lsp-server-1.18.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ag3bwq8gsaj0lh636yph4ma7dlqm7b2h-ocaml5.1.1-ocaml-lsp-server-1.18.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ag3bwq8gsaj0lh636yph4ma7dlqm7b2h-ocaml5.1.1-ocaml-lsp-server-1.18.0"
+        }
+      }
+    },
+    "ocamlPackages.ocamlformat@0.26.2": {
+      "last_modified": "2024-09-12T02:28:40Z",
+      "resolved": "github:NixOS/nixpkgs/111ed8812c10d7dc3017de46cbf509600c93f551#ocamlPackages.ocamlformat",
+      "source": "devbox-search",
+      "version": "0.26.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vdyqw29drx4aw3dicrclgzsf8bid28w5-ocaml5.1.1-ocamlformat-0.26.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vdyqw29drx4aw3dicrclgzsf8bid28w5-ocaml5.1.1-ocamlformat-0.26.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/2w8lyzcjib3z80302y6b1g9050rqc35s-ocaml5.1.1-ocamlformat-0.26.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/2w8lyzcjib3z80302y6b1g9050rqc35s-ocaml5.1.1-ocamlformat-0.26.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/a2j3h71dy0dm9gvx3hmy4zpch5k1wq7c-ocaml5.1.1-ocamlformat-0.26.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/a2j3h71dy0dm9gvx3hmy4zpch5k1wq7c-ocaml5.1.1-ocamlformat-0.26.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/z8iji3s5lcikhk7nshrpp073wxn00p7i-ocaml5.1.1-ocamlformat-0.26.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/z8iji3s5lcikhk7nshrpp073wxn00p7i-ocaml5.1.1-ocamlformat-0.26.2"
+        }
+      }
+    },
+    "ocamlPackages.utop@2.14.0": {
+      "last_modified": "2024-09-10T15:01:03Z",
+      "resolved": "github:NixOS/nixpkgs/5ed627539ac84809c78b2dd6d26a5cebeb5ae269#ocamlPackages.utop",
+      "source": "devbox-search",
+      "version": "2.14.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vqlbxpa8v8avlgd9pqxgfa46ryg40yz6-ocaml5.1.1-utop-2.14.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vqlbxpa8v8avlgd9pqxgfa46ryg40yz6-ocaml5.1.1-utop-2.14.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5bdq7ls99wd38sbs8j4nqd5xjxblkpky-ocaml5.1.1-utop-2.14.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/5bdq7ls99wd38sbs8j4nqd5xjxblkpky-ocaml5.1.1-utop-2.14.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/mr4ip3cm6hm44msrnmx83ja475cx80h6-ocaml5.1.1-utop-2.14.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/mr4ip3cm6hm44msrnmx83ja475cx80h6-ocaml5.1.1-utop-2.14.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/aa6g48af2v1j80jfkn1khi7j3mcz5ly7-ocaml5.1.1-utop-2.14.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/aa6g48af2v1j80jfkn1khi7j3mcz5ly7-ocaml5.1.1-utop-2.14.0"
+        }
+      }
+    },
+    "opam@2.2.0": {
+      "last_modified": "2024-09-10T15:01:03Z",
+      "resolved": "github:NixOS/nixpkgs/5ed627539ac84809c78b2dd6d26a5cebeb5ae269#opam",
+      "source": "devbox-search",
+      "version": "2.2.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/zizx8ayvgwkf7gkcllc3x2gvsqmc1hs5-opam-2.2.0",
+              "default": true
+            },
+            {
+              "name": "installer",
+              "path": "/nix/store/9fa2xm6rmvrm2blmyk2flzfxgzzl9393-opam-2.2.0-installer"
+            }
+          ],
+          "store_path": "/nix/store/zizx8ayvgwkf7gkcllc3x2gvsqmc1hs5-opam-2.2.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vznsylj9sqxdfj0ds61az0kl0vyxkgrr-opam-2.2.0",
+              "default": true
+            },
+            {
+              "name": "installer",
+              "path": "/nix/store/wz6mgk2vkix1r63hhjcvvq26zydwprwx-opam-2.2.0-installer"
+            }
+          ],
+          "store_path": "/nix/store/vznsylj9sqxdfj0ds61az0kl0vyxkgrr-opam-2.2.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/nxl9bvhimdlj1bqkk40gd79801b88hp6-opam-2.2.0",
+              "default": true
+            },
+            {
+              "name": "installer",
+              "path": "/nix/store/vvd6961k3676069ksbkq33g7s1nvq000-opam-2.2.0-installer"
+            }
+          ],
+          "store_path": "/nix/store/nxl9bvhimdlj1bqkk40gd79801b88hp6-opam-2.2.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ai2hbbjx1br1c0bbcnbkjpnfc2akangd-opam-2.2.0",
+              "default": true
+            },
+            {
+              "name": "installer",
+              "path": "/nix/store/4r6wmb06qag71jx74jl9cbdbnp438zmj-opam-2.2.0-installer"
+            }
+          ],
+          "store_path": "/nix/store/ai2hbbjx1br1c0bbcnbkjpnfc2akangd-opam-2.2.0"
+        }
+      }
+    }
+  }
+}

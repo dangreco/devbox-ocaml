@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.13.0/.schema/devbox.schema.json",
+  "packages": [
+    "ocaml@5.1.1",
+    "ocamlPackages.ocamlformat@0.26.2",
+    "dune_3@3.16.0",
+    "opam@2.2.0",
+    "ocamlPackages.ocaml-lsp@1.18.0",
+    "ocamlPackages.findlib@1.9.6",
+    "ocamlPackages.utop@2.14.0",
+    "ocamlPackages.merlin@4.16-501",
+    "just@1.35.0",
+    "gh@latest"
+  ],
+  "shell": {
+    "init_hook": [
+      ""
+    ],
+    "scripts": {}
+  }
+}
